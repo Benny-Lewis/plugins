@@ -34,6 +34,20 @@
       "license": "MPL-2.0",
       "keywords": ["gardening", "landscaping", "plants", "landscape-design", "garden-planning"],
       "category": "gardening"
+    },
+    {
+      "name": "personal-tools",
+      "source": {
+        "source": "github",
+        "repo": "Benny-Lewis/personal-tools"
+      },
+      "description": "Personal workflow tools — Notepad++ tab cleanup, and more.",
+      "version": "1.0.0",
+      "author": { "name": "blewis" },
+      "homepage": "https://github.com/Benny-Lewis/personal-tools",
+      "license": "MPL-2.0",
+      "keywords": ["notepad++", "workflow", "cleanup", "personal-tools"],
+      "category": "productivity"
     }
   ]
 }
